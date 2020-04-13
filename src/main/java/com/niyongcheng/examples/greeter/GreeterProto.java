@@ -37,8 +37,9 @@ public final class GreeterProto {
       "\n\014HelloRequest\022\014\n\004name\030\001 \001(\t\"\035\n\nHelloRep" +
       "ly\022\017\n\007message\030\001 \001(\t2I\n\007Greeter\022>\n\010SayHel" +
       "lo\022\030.routeguide.HelloRequest\032\026.routeguid" +
-      "e.HelloReply\"\000B8\n com.niyongcheng.exampl" +
-      "es.greeterB\014GreeterProtoP\001\242\002\003RTGb\006proto3"
+      "e.HelloReply\"\000B;\n com.niyongcheng.exampl" +
+      "es.greeterB\014GreeterProtoP\001\210\001\001\242\002\003RTGb\006pro" +
+      "to3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

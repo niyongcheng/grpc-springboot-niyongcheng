@@ -4,6 +4,7 @@ option java_multiple_files = true;
 option java_package = "com.niyongcheng.examples.greeter";
 option java_outer_classname = "GreeterProto";
 option objc_class_prefix = "RTG";
+option java_generic_services = true;
 
 package routeguide;
 

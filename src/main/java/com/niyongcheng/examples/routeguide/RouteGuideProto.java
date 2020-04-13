@@ -70,9 +70,9 @@ public final class RouteGuideProto {
       "\023.routeguide.Feature\"\0000\001\022>\n\013RecordRoute\022" +
       "\021.routeguide.Point\032\030.routeguide.RouteSum" +
       "mary\"\000(\001\022?\n\tRouteChat\022\025.routeguide.Route" +
-      "Note\032\025.routeguide.RouteNote\"\000(\0010\001B>\n#com" +
+      "Note\032\025.routeguide.RouteNote\"\000(\0010\001BA\n#com" +
       ".niyongcheng.examples.routeguideB\017RouteG" +
-      "uideProtoP\001\242\002\003RTGb\006proto3"
+      "uideProtoP\001\210\001\001\242\002\003RTGb\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,
